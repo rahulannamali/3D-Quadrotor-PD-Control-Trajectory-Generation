@@ -1,1 +1,0 @@
-# 3D-Quadrotor-PD-Control-Trajectory-Generation
